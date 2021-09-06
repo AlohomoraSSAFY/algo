@@ -118,4 +118,4 @@ public class BOJ3190 {
 			d = (d + 3) % 4;
 	}
 
-}
+} 
