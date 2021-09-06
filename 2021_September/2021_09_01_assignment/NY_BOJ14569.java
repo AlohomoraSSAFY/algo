@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class BOJ14569 {
+public class BOJ14569 { 
 	static int n, k, m, p;
 
 	static boolean classes[][];
