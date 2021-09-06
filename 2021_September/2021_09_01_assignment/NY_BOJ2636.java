@@ -75,7 +75,7 @@ public class BOJ2636 {
 					visited[nx][ny] = true;
 				}
 			}
-		}
+		} 
 
 	}
 }
