@@ -77,3 +77,10 @@
 - [BOJ 13164번 행복 유치원](https://www.acmicpc.net/problem/13164)
 - [BOJ 14499번 주사위 굴리기](https://www.acmicpc.net/problem/14499)
 - [BOJ 16137번 견우와 직녀](https://www.acmicpc.net/problem/16137)
+
+#### 2021.10.03 ~ 2021.10.07
+
+- [BOJ 3019번 테트리스](https://www.acmicpc.net/problem/3019)
+- [BOJ 16925번 문자열 추측](https://www.acmicpc.net/problem/16925)
+- [BOJ 4811번 알약](https://www.acmicpc.net/problem/4811)
+- [BOJ 14890번 경사로](https://www.acmicpc.net/problem/14890)
