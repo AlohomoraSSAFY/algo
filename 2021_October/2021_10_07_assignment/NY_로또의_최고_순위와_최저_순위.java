@@ -1,6 +1,6 @@
 package date1010SUN;
 
-public class 프로그래머스_로또의최고순위와최저순위 {
+public class 프로그래머스_로또의_최고_순위와_최저_순위 {
 
 	public int[] solution(int[] lottos, int[] win_nums) {
 		int match = 0;
