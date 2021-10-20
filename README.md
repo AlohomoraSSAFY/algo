@@ -95,11 +95,30 @@
 - [BOJ 11657번 타임머신](https://www.acmicpc.net/problem/11657)
 - [BOJ 2234번 성곽](https://www.acmicpc.net/problem/2234)
 - [BOJ 2615번 오목](https://www.acmicpc.net/problem/2615)
-- Programmers 로또의 최고 순위와 최저 순위
+- [Programmers 로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
 
 #### 2021.10.11 ~ 2021.10.14
 
 - [BOJ 2467번 용액](https://www.acmicpc.net/problem/2467)
 - [BOJ 16947번 서울 지하철 2호선](https://www.acmicpc.net/problem/16947)
 - [BOJ 13460번 구슬 탈출 2](https://www.acmicpc.net/problem/13460)
-- Programmers 신규 아이디 추천
+- [Programmers 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
+
+#### 2021.10.14 ~ 2021.10.17
+
+- [BOJ 14719번 빗물](https://www.acmicpc.net/problem/14719)
+- [BOJ 16954번 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
+- [BOJ 12100번 2048 (Easy)](https://www.acmicpc.net/problem/12100)
+
+#### 2021.10.17 ~ 2021.10.21
+
+- [BOJ 10971번 외판원 순회 2](https://www.acmicpc.net/problem/10971)
+- [BOJ 12869번 뮤탈리스크](https://www.acmicpc.net/problem/12869)
+- [BOJ 17142번 연구소 3](https://www.acmicpc.net/problem/17142)
+
+#### 2021.10.21 ~ 2021.10.24
+
+- [BOJ 3020번 개똥벌레](https://www.acmicpc.net/problem/3020)
+- [BOJ 2096번 내려가기](https://www.acmicpc.net/problem/2096)
+- [Programmers 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
+- [Programmers 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
