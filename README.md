@@ -122,3 +122,17 @@
 - [BOJ 2096번 내려가기](https://www.acmicpc.net/problem/2096)
 - [Programmers 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
 - [Programmers 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+
+#### 2021.10.24 ~ 2021.10.28
+
+- [BOJ 21758번 꿀 따기](https://www.acmicpc.net/problem/21758)
+- [BOJ 1941번 소문난 칠공주](https://www.acmicpc.net/problem/1941)
+- [BOJ 2252번 줄 세우기](https://www.acmicpc.net/problem/2252)
+- [Programmers K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
+
+#### 2021.10.28 ~ 2021.10.31
+
+- [BOJ 2343번 기타 레슨](https://www.acmicpc.net/problem/2343)
+- [BOJ 2573번 빙산](https://www.acmicpc.net/problem/2573)
+- [BOJ 1700번 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
+- [Programmers 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
