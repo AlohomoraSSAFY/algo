@@ -136,3 +136,31 @@
 - [BOJ 2573번 빙산](https://www.acmicpc.net/problem/2573)
 - [BOJ 1700번 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
 - [Programmers 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+
+#### 2021.10.31 ~ 2021.11.04
+
+- [BOJ 2304번 창고 다각형](https://www.acmicpc.net/problem/2304)
+- [BOJ 2293번 동전 1](https://www.acmicpc.net/problem/2293)
+- [BOJ 14725번 개미굴](https://www.acmicpc.net/problem/14725)
+- [BOJ 23290번 마법사 상어와 복제](https://www.acmicpc.net/problem/23290)
+
+#### 2021.11.04 ~ 2021.11.07
+
+- [BOJ 14238번 출근 기록](https://www.acmicpc.net/problem/14238)
+- [BOJ 11779번 최소비용 구하기 2](https://www.acmicpc.net/problem/11779)
+- [Programmers 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
+- [Programmers 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
+
+#### 2021.11.07 ~ 2021.11.11
+
+- [BOJ 1922번 네트워크 연결](https://www.acmicpc.net/problem/1922)
+- [BOJ 2638번 치즈](https://www.acmicpc.net/problem/2638)
+- [Programmers 더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
+- [Programmers 조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
+
+#### 2021.11.11 ~ 2021.11.14
+
+- [BOJ 6588번 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
+- [BOJ 17281번 ⚾](https://www.acmicpc.net/problem/17281)
+- [BOJ 14391번 종이 조각](https://www.acmicpc.net/problem/14391)
+- [Programmers 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
