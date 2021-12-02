@@ -164,3 +164,25 @@
 - [BOJ 17281번 ⚾](https://www.acmicpc.net/problem/17281)
 - [BOJ 14391번 종이 조각](https://www.acmicpc.net/problem/14391)
 - [Programmers 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
+
+#### 2021.11.14 ~ 2021.11.18
+
+- [BOJ 2616번 소형기관차](https://www.acmicpc.net/problem/2616)
+- [BOJ 1043번 거짓말](https://www.acmicpc.net/problem/1043)
+- [BOJ 16985번 Maaaaaaaaaze](https://www.acmicpc.net/problem/16985)
+
+#### 2021.11.28 ~ 2021.12.02
+
+- [BOJ 1912번 연속합](https://www.acmicpc.net/problem/1912)
+- [BOJ 11725번 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
+- [BOJ 6443번 애너그램](https://www.acmicpc.net/problem/6443)
+- [BOJ 11559번 Puyo Puyo](https://www.acmicpc.net/problem/11559)
+- [Programmers 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
+- [Programmers 큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
+
+#### 2021.12.02 ~ 2021.12.05
+
+- [BOJ 2661번 좋은수열](https://www.acmicpc.net/problem/2661)
+- [BOJ 16973번 직사각형 탈출](https://www.acmicpc.net/problem/16973)
+- [Programmers N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
+- [Programmers 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
