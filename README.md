@@ -186,3 +186,17 @@
 - [BOJ 16973번 직사각형 탈출](https://www.acmicpc.net/problem/16973)
 - [Programmers N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
 - [Programmers 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
+
+#### 2021.12.05 ~ 2021.12.09
+
+- [BOJ 21610번 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
+- [BOJ 1261번 알고스팟](https://www.acmicpc.net/problem/1261)
+- [Programmers 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+- [Programmers 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
+
+#### 2021.12.09 ~ 2021.12.12
+
+- [BOJ 16197번 두 동전](https://www.acmicpc.net/problem/16197)
+- [BOJ 1647번 도시 분할 계획](https://www.acmicpc.net/problem/1647)
+- [Programmers 가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
+- [Programmers 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
