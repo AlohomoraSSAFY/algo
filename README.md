@@ -200,3 +200,10 @@
 - [BOJ 1647번 도시 분할 계획](https://www.acmicpc.net/problem/1647)
 - [Programmers 가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 - [Programmers 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
+
+#### 2021.12.12 ~ 2021.12.16
+
+- [BOJ 1939번 중량제한](https://www.acmicpc.net/problem/1939)
+- [BOJ 17837번 새로운 게임 2](https://www.acmicpc.net/problem/17837)
+- [Programmers 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+- [Programmers 정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
