@@ -207,3 +207,10 @@
 - [BOJ 17837번 새로운 게임 2](https://www.acmicpc.net/problem/17837)
 - [Programmers 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
 - [Programmers 정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
+
+#### 2021.12.16 ~ 2021.12.19
+
+- [BOJ 20056번 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)
+- [BOJ 10800번 컬러볼](https://www.acmicpc.net/problem/10800)
+- [Programmers 위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
+- [Programmers 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
