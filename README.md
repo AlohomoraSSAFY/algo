@@ -214,3 +214,10 @@
 - [BOJ 10800번 컬러볼](https://www.acmicpc.net/problem/10800)
 - [Programmers 위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
 - [Programmers 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
+
+#### 2021.12.19 ~ 2021.12.23
+
+- [BOJ 1068번 트리](https://www.acmicpc.net/problem/1068)
+- [BOJ 1238번 파티](https://www.acmicpc.net/problem/1238)
+- [Programmers 다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+- [Programmers 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
