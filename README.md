@@ -221,3 +221,9 @@
 - [BOJ 1238번 파티](https://www.acmicpc.net/problem/1238)
 - [Programmers 다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
 - [Programmers 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
+
+#### 2021.12.23 ~ 2021.12.26
+
+- [BOJ 2056번 작업](https://www.acmicpc.net/problem/2056)
+- [BOJ 17825번 주사위 윷놀이](https://www.acmicpc.net/problem/17825)
+- [Programmers 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
