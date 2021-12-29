@@ -234,3 +234,9 @@
 - [BOJ 2448번 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
 - [Programmers H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
 - [Programmers 섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)
+
+#### 2021.12.30 ~ 2022.01.02
+
+- [BOJ 2116번 주사위 쌓기](https://www.acmicpc.net/problem/2116)
+- [BOJ 2263번 트리의 순회](https://www.acmicpc.net/problem/2263)
+- [Programmers 순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
