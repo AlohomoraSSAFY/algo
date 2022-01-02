@@ -240,3 +240,9 @@
 - [BOJ 2116번 주사위 쌓기](https://www.acmicpc.net/problem/2116)
 - [BOJ 2263번 트리의 순회](https://www.acmicpc.net/problem/2263)
 - [Programmers 순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
+
+#### 2022.01.02 ~ 2022.01.06
+
+- [BOJ 20437번 문자열 게임 2](https://www.acmicpc.net/problem/20437)
+- [BOJ 20057번 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)
+- [Programmers 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
