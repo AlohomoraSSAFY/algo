@@ -246,3 +246,12 @@
 - [BOJ 20437번 문자열 게임 2](https://www.acmicpc.net/problem/20437)
 - [BOJ 20057번 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)
 - [Programmers 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
+
+#### 2022.01.06 ~ 2022.01.13
+
+- [BOJ 21317번 징검다리 건너기](https://www.acmicpc.net/problem/21317)
+- [BOJ 2015번 수들의 합 4](https://www.acmicpc.net/problem/2015)
+- [BOJ 22944번 죽음의 비](https://www.acmicpc.net/problem/22944)
+- [Programmers 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
+- [Programmers 여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
+- [Programmers 징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)
