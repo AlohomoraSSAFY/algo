@@ -255,3 +255,12 @@
 - [Programmers 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
 - [Programmers 여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
 - [Programmers 징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)
+
+#### 2022.01.13 ~ 2022.01.20
+
+- [BOJ 4358번 생태학](https://www.acmicpc.net/problem/4358)
+- [BOJ 13023번 ABCDE](https://www.acmicpc.net/problem/13023)
+- [Programmers 이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
+- [Programmers 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
+- [Programmers 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
+- [Programmers 도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
