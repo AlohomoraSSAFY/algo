@@ -264,3 +264,12 @@
 - [Programmers 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
 - [Programmers 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
 - [Programmers 도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
+
+#### 2022.01.20 ~ 2022.01.27
+
+- [BOJ 22867번 종점](https://www.acmicpc.net/problem/22867)
+- [BOJ 16562번 친구비](https://www.acmicpc.net/problem/16562)
+- [BOJ 20061번 모노미노도미노 2](https://www.acmicpc.net/problem/20061)
+- [Programmers 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+- [Programmers 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
+- [Programmers 다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)
