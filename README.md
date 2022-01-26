@@ -273,3 +273,12 @@
 - [Programmers 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
 - [Programmers 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
 - [Programmers 다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)
+
+#### 2022.01.27 ~ 2022.02.03
+
+- [BOJ 11000번 강의실 배정](https://www.acmicpc.net/problem/11000)
+- [BOJ 14226번 이모티콘](https://www.acmicpc.net/problem/14226)
+- [BOJ 1865번 웜홀](https://www.acmicpc.net/problem/1865)
+- [Programmers 행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)
+- [Programmers 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
+- [Programmers [1차] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
