@@ -282,3 +282,12 @@
 - [Programmers 행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)
 - [Programmers 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
 - [Programmers [1차] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
+
+#### 2022.02.03 ~ 2022.02.10
+
+- [BOJ 2668번 숫자고르기](https://www.acmicpc.net/problem/2668)
+- [BOJ 14938번 서강그라운드](https://www.acmicpc.net/problem/14938)
+- [BOJ 1655번 가운데를 말해요](https://www.acmicpc.net/problem/1655)
+- [Programmers 카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)
+- [Programmers 멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
+- [Programmers 자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
