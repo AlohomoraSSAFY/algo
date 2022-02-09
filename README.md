@@ -291,3 +291,12 @@
 - [Programmers 카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)
 - [Programmers 멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
 - [Programmers 자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
+
+#### 2022.02.10 ~ 2022.02.24
+
+- [BOJ 9251번 LCS](https://www.acmicpc.net/problem/9251)
+- [BOJ 1749번 점수따먹기](https://www.acmicpc.net/problem/1749)
+- [BOJ 14442번 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
+- [Programmers 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
+- [Programmers 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
+- [Programmers [1차] 셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)
