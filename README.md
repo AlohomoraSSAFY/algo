@@ -300,3 +300,12 @@
 - [Programmers 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
 - [Programmers 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
 - [Programmers [1차] 셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)
+
+#### 2022.02.24 ~ 2022.03.03
+
+- [BOJ 2512번 예산](https://www.acmicpc.net/problem/2512)
+- [BOJ 1967번 트리의 지름](https://www.acmicpc.net/problem/1967)
+- [BOJ 1774번 우주신과의 교감](https://www.acmicpc.net/problem/1774)
+- [Programmers 단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)
+- [Programmers 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+- [Programmers 브라이언의 고민](https://programmers.co.kr/learn/courses/30/lessons/1830)
