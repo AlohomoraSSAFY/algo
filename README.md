@@ -318,3 +318,12 @@
 - [Programmers 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
 - [Programmers 빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)
 - [Programmers 표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)
+
+#### 2022.03.10 ~ 2022.03.17
+
+- [BOJ 1254번 팰린드롬 만들기](https://www.acmicpc.net/problem/1254)
+- [BOJ 10830번 행렬 제곱](https://www.acmicpc.net/problem/10830)
+- [BOJ 9466번 텀 프로젝트](https://www.acmicpc.net/problem/9466)
+- [Programmers [1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
+- [Programmers 튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
+- [Programmers 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
