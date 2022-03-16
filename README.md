@@ -327,3 +327,12 @@
 - [Programmers [1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
 - [Programmers 튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
 - [Programmers 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
+
+#### 2022.03.17 ~ 2022.03.24
+
+- [BOJ 1713번 후보 추천하기](https://www.acmicpc.net/problem/1713)
+- [BOJ 20058번 마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)
+- [BOJ 1937번 욕심쟁이 판다](https://www.acmicpc.net/problem/1937)
+- [Programmers 후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
+- [Programmers 괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
+- [Programmers 배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
