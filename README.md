@@ -336,3 +336,12 @@
 - [Programmers 후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
 - [Programmers 괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
 - [Programmers 배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
+
+#### 2022.03.24 ~ 2022.03.31
+
+- [BOJ 19942번 다이어트](https://www.acmicpc.net/problem/19942)
+- [BOJ 17140번 이차원 배열과 연산](https://www.acmicpc.net/problem/17140)
+- [BOJ 2109번 순회강연](https://www.acmicpc.net/problem/2109)
+- [Programmers [1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
+- [Programmers 삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
+- [Programmers 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
