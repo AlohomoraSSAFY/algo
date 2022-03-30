@@ -345,3 +345,12 @@
 - [Programmers [1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
 - [Programmers 삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
 - [Programmers 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
+
+#### 2022.03.31 ~ 2022.04.14
+
+- [BOJ 4889번 안정적인 문자열](https://www.acmicpc.net/problem/4889)
+- [BOJ 2666번 벽장문의 이동](https://www.acmicpc.net/problem/2666)
+- [BOJ 1167번 트리의 지름](https://www.acmicpc.net/problem/1167)
+- [Programmers [1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
+- [Programmers 이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)
+- [Programmers 점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
