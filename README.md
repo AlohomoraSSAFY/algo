@@ -362,3 +362,11 @@
 - [Programmers 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
 - [Programmers 방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)
 - [Programmers [3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
+
+#### 2022.04.21 ~ 2022.04.28
+
+- [BOJ 1339번 단어 수학](https://www.acmicpc.net/problem/1339)
+- [BOJ 17779번 게리맨더링 2](https://www.acmicpc.net/problem/17779)
+- [Programmers 가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)
+- [Programmers [3차] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
+- [Programmers [3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)
