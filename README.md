@@ -370,3 +370,13 @@
 - [Programmers 가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)
 - [Programmers [3차] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
 - [Programmers [3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)
+
+#### 2022.04.28 ~ 2022.05.12
+
+- [BOJ 1756번 피자 굽기](https://www.acmicpc.net/problem/1756)
+- [BOJ 2211번 네트워크 복구](https://www.acmicpc.net/problem/2211)
+- [BOJ 16724번 피리 부는 사나이](https://www.acmicpc.net/problem/16724)
+- [Programmers 올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
+- [Programmers [3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
+- [Programmers 다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
+- [Programmers 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
