@@ -380,3 +380,12 @@
 - [Programmers [3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
 - [Programmers 다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
 - [Programmers 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
+
+#### 2022.05.12 ~ 2022.05.26
+
+- [BOJ 10836번 여왕벌](https://www.acmicpc.net/problem/10836)
+- [BOJ 14621번 나만 안되는 연애](https://www.acmicpc.net/problem/14621)
+- [Programmers [1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+- [Programmers [1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
+- [Programmers k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)
+- [Programmers 숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)
