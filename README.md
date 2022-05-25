@@ -389,3 +389,11 @@
 - [Programmers [1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
 - [Programmers k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)
 - [Programmers 숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)
+
+#### 2022.05.26 ~ 2022.06.02
+
+- [BOJ 1202번 보석 도둑](https://www.acmicpc.net/problem/1202)
+- [BOJ 9576번 책 나눠주기](https://www.acmicpc.net/problem/9576)
+- [Programmers 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
+- [Programmers 약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)
+- [Programmers 주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)
