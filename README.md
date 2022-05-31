@@ -397,3 +397,11 @@
 - [Programmers 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
 - [Programmers 약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)
 - [Programmers 주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)
+
+#### 2022.06.02 ~ 2022.06.09
+
+- [BOJ 2608번 로마 숫자](https://www.acmicpc.net/problem/2608)
+- [BOJ 18430번 무기 공학](https://www.acmicpc.net/problem/18430)
+- [Programmers 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
+- [Programmers 최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
+- [Programmers 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)
