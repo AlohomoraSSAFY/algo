@@ -405,3 +405,11 @@
 - [Programmers 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
 - [Programmers 최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
 - [Programmers 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)
+
+#### 2022.06.09 ~ 2022.06.16
+
+- [BOJ 2631번 줄세우기](https://www.acmicpc.net/problem/2631)
+- [BOJ 1915번 가장 큰 정사각형](https://www.acmicpc.net/problem/1915)
+- [Programmers 나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
+- [Programmers 부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)
+- [Programmers 불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)
