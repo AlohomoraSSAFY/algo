@@ -421,3 +421,9 @@
 - [Programmers 가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
 - [Programmers 같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
 - [Programmers 합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)
+
+#### 2022.06.23 ~ 2022.06.30
+
+- [BOJ 19951번 태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951)
+- [BOJ 3980번 선발 명단](https://www.acmicpc.net/problem/3980)
+- [Programmers 모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)
