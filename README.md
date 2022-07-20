@@ -446,3 +446,9 @@
 - [BOJ 2212번 센서](https://www.acmicpc.net/problem/2212)
 - [BOJ 4991번 로봇 청소기](https://www.acmicpc.net/problem/4991)
 - [Programmers 징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
+
+#### 2022.07.21 ~ 2022.07.28
+
+- [BOJ 15662번 톱니바퀴 (2)](https://www.acmicpc.net/problem/15662)
+- [BOJ 1027번 고층 건물](https://www.acmicpc.net/problem/1027)
+- [Programmers 가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)
