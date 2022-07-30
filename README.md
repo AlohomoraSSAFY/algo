@@ -458,3 +458,9 @@
 - [BOJ 2650번 교차점개수](https://www.acmicpc.net/problem/2650)
 - [BOJ 1757번 달려달려](https://www.acmicpc.net/problem/1757)
 - [Programmers 기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)
+
+#### 2022.08.02 ~ 2022.08.09
+
+- [BOJ 2922번 즐거운 단어](https://www.acmicpc.net/problem/2922)
+- [BOJ 1188번 음식 평론가](https://www.acmicpc.net/problem/1188)
+- [Programmers 쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
