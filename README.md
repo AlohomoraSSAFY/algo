@@ -464,3 +464,9 @@
 - [BOJ 2922번 즐거운 단어](https://www.acmicpc.net/problem/2922)
 - [BOJ 1188번 음식 평론가](https://www.acmicpc.net/problem/1188)
 - [Programmers 쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
+
+#### 2022.08.09 ~ 2022.08.16
+
+- [BOJ 21921번 블로그](https://www.acmicpc.net/problem/21921)
+- [BOJ 2146번 다리 만들기](https://www.acmicpc.net/problem/2146)
+- [Programmers 멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
