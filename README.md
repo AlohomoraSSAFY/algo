@@ -470,3 +470,9 @@
 - [BOJ 21921번 블로그](https://www.acmicpc.net/problem/21921)
 - [BOJ 2146번 다리 만들기](https://www.acmicpc.net/problem/2146)
 - [Programmers 멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
+
+#### 2022.08.16 ~ 2022.08.23
+
+- [BOJ 11501번 주식](https://www.acmicpc.net/problem/11501)
+- [BOJ 2933번 미네랄](https://www.acmicpc.net/problem/2933)
+- [Programmers 숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
