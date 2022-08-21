@@ -476,3 +476,9 @@
 - [BOJ 11501번 주식](https://www.acmicpc.net/problem/11501)
 - [BOJ 2933번 미네랄](https://www.acmicpc.net/problem/2933)
 - [Programmers 숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
+
+#### 2022.08.23 ~ 2022.08.30
+
+- [BOJ 19941번 햄버거 분배](https://www.acmicpc.net/problem/19941)
+- [BOJ 4179번 불!](https://www.acmicpc.net/problem/4179)
+- [Programmers 줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)
