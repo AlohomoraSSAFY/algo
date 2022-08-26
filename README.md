@@ -482,3 +482,9 @@
 - [BOJ 19941번 햄버거 분배](https://www.acmicpc.net/problem/19941)
 - [BOJ 4179번 불!](https://www.acmicpc.net/problem/4179)
 - [Programmers 줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)
+
+#### 2022.08.30 ~ 2022.09.06
+
+- [BOJ 20920번 영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)
+- [BOJ 3055번 탈출](https://www.acmicpc.net/problem/3055)
+- [Programmers 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
