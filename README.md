@@ -488,3 +488,9 @@
 - [BOJ 20920번 영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)
 - [BOJ 3055번 탈출](https://www.acmicpc.net/problem/3055)
 - [Programmers 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
+
+#### 2022.09.06 ~ 2022.09.13
+
+- [BOJ 2607번 비슷한 단어](https://www.acmicpc.net/problem/2607)
+- [BOJ 16235번 나무 재테크](https://www.acmicpc.net/problem/16235)
+- [Programmers 외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)
