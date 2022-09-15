@@ -489,8 +489,14 @@
 - [BOJ 3055번 탈출](https://www.acmicpc.net/problem/3055)
 - [Programmers 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
 
-#### 2022.09.06 ~ 2022.09.13
+#### 2022.09.06 ~ 2022.09.20
 
 - [BOJ 2607번 비슷한 단어](https://www.acmicpc.net/problem/2607)
 - [BOJ 16235번 나무 재테크](https://www.acmicpc.net/problem/16235)
 - [Programmers 외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)
+
+#### 2022.09.20 ~ 2022.09.27
+
+- [BOJ 2075번 N번째 큰 수](https://www.acmicpc.net/problem/2075)
+- [BOJ 9328번 열쇠](https://www.acmicpc.net/problem/9328)
+- [Programmers 블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)
