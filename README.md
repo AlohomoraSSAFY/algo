@@ -506,3 +506,9 @@
 - [BOJ 14620번 꽃길](https://www.acmicpc.net/problem/14620)
 - [BOJ 2629번 양팔저울](https://www.acmicpc.net/problem/2629)
 - [Programmers 길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)
+
+#### 2022.10.04 ~ 2022.10.11
+
+- [BOJ 2138번 전구와 스위치](https://www.acmicpc.net/problem/2138)
+- [BOJ 15683번 감시](https://www.acmicpc.net/problem/15683)
+- [BOJ 17822번 원판 돌리기](https://www.acmicpc.net/problem/17822)
