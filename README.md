@@ -512,3 +512,9 @@
 - [BOJ 2138번 전구와 스위치](https://www.acmicpc.net/problem/2138)
 - [BOJ 15683번 감시](https://www.acmicpc.net/problem/15683)
 - [BOJ 17822번 원판 돌리기](https://www.acmicpc.net/problem/17822)
+
+#### 2022.10.11 ~ 2022.10.18
+
+- [BOJ 1515번 수 이어 쓰기](https://www.acmicpc.net/problem/1515)
+- [BOJ 23288번 주사위 굴리기 2](https://www.acmicpc.net/problem/23288)
+- [BOJ 23289번 온풍기 안녕!](https://www.acmicpc.net/problem/23289)
